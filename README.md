@@ -4,6 +4,5 @@
 
 ## SIUS version
 
-SiusData 2.07b
-
-SiusRank 8.4.0
+* SiusData 2.07b
+* SiusRank 8.4.0
