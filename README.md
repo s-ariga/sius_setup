@@ -3,5 +3,7 @@
 オリジナルSIUSの設定をいじった部分のレポジトリです。
 
 ## SIUS version
+
 SiusData 2.07b
+
 SiusRank 8.4.0
